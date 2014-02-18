@@ -15,6 +15,11 @@ public class HolamundoJava {
     /**
      * @param args the command line arguments
      */
+    /**
+     * Este comentario es cortesia de el desarrollo
+     * en las aplicaciones de nuestro ambito de programacion
+     * @param args 
+     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
